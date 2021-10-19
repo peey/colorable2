@@ -1,4 +1,4 @@
-# Colorable
+# Colorable2
 
 Take a set color palette and get contrast values for every possible combination – 
 useful for finding safe color combinations with predefined colors
